@@ -6,7 +6,7 @@ This repository is for the XY table donated to us by the project lab in fall 201
 The documentation, Solidworks models, and datasheets can be found here.
 
 Upon initial reading of the documentation, the stages are extremely precise, with 2mm/rev 
-ballscrews and 2000-4000 steps per revolution stepper motors. I don't know if they come
+ballscrews and 4000 steps per revolution stepper motors. I don't know if they come
 with an encoder just yet, but my guess is that they do.
 
 Because of their precision, I would recommend that this table be used in a PCB milling 
